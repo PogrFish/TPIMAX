@@ -1,0 +1,5 @@
+if game.PlaceId == 4924922222 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PogrFish/TPI/main/TPI"))()
+elseif game.PlaceId == 6495459333 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PogrFish/TBI2/main/Main"))()
+end
